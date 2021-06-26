@@ -1,2 +1,5 @@
 application/.vscode/*
 Pipfile.lock
+
+application/flask_blog/__pycache__/*
+application/flask_blog/views/__pycache__/*
